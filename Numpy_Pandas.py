@@ -64,3 +64,5 @@ print(df_colesterol.columns)
 print(df_colesterol.dtypes)
 print(df_colesterol.index)
 print(df_colesterol.nombre) #Si ocupas mas de una columna serai ejemplo ([["nombre","edad"]])
+
+print("THE END")
