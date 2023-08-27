@@ -41,7 +41,6 @@ print(np.linalg.solve(np_ec,res_ec))
 
 
 
-
 import pandas as pd
 
 
